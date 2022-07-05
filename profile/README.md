@@ -1,4 +1,6 @@
-## Hi there 👋
+
+![](./images/arte_profile_muralis.png)
+## Olá pessoal! 👋
 
 <!--
 
