@@ -1,6 +1,6 @@
 
-![](./arte_profile_muralis.png)
-## Olá pessoal! 👋
+<img src="arte_profile_muralis.png" alt="drawing" width="80"/>
+## Olá pessoal! Sejam bem-vindos aos desafios da Muralis 👋
 
 <!--
 
