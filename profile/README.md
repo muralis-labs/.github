@@ -1,5 +1,5 @@
 
-![](./images/arte_profile_muralis.png)
+![](./arte_profile_muralis.png)
 ## Olá pessoal! 👋
 
 <!--
