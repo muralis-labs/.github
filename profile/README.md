@@ -1,5 +1,5 @@
 
-<img src="https://github.com/muralis-labs/.github/blob/main/profile/arte_profile_muralis.png" alt="drawing" width="80"/>
+<img src="https://github.com/muralis-labs/.github/blob/main/profile/arte_profile_muralis.png" alt="drawing" width="100"/>
 ## Olá pessoal! Sejam bem-vindos aos desafios da Muralis 👋
 
 <!--
